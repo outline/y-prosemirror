@@ -1,5 +1,5 @@
 {
-  "name": "y-prosemirror",
+  "name": "@getoutline/y-prosemirror",
   "version": "1.0.15",
   "description": "Prosemirror bindings for Yjs",
   "main": "./dist/y-prosemirror.cjs",
